@@ -1,6 +1,6 @@
 # Frontend Mentor - Product list with cart
 
-![Design preview for the Product list with cart coding challenge](../active-states.jpg)
+![Design preview for the Product list with cart coding challenge](./work-Instruction/design/active-states.jpg)
 
 ## Welcome! 👋
 
